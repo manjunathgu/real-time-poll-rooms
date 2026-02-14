@@ -107,7 +107,7 @@ http://localhost:3000
 The application is deployed on a public hosting platform.
 
 **Live URL:**
-(Add your deployed link here)
+https://real-time-poll-rooms-kbrr61y8l-manjunath-g-us-projects.vercel.app
 
 ---
 
