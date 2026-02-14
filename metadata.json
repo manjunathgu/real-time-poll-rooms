@@ -1,0 +1,6 @@
+
+{
+  "name": "PollStream",
+  "description": "Real-time, zero-friction polling application with live results and session-based anti-abuse.",
+  "requestFramePermissions": []
+}
